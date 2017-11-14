@@ -1,3 +1,3 @@
 # CS-Games
 Game theoretical approaches for TSO DSO coordination schemes. 
-Coucou
+Data set used to test the coordination schemes.
